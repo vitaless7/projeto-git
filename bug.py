@@ -1,1 +1,0 @@
-print("Resolvendo bug")
